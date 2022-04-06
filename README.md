@@ -5,3 +5,6 @@ Implementation Task Scheduling Algorithms
 
 * CPOP
 * HEFT
+* IHEFT
+* IPEFT
+* 
