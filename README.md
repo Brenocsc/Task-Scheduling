@@ -7,4 +7,3 @@ Implementation Task Scheduling Algorithms
 * HEFT
 * IHEFT
 * IPEFT
-* 
